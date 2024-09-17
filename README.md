@@ -85,7 +85,7 @@ Código:
 * [30 - Importación de módulos externos](./Basic/30-import-external-modules.cjs)
 * [31 - Ejercicios: Módulos](./Basic/31-modules-exercises.js)
 * [package.json módulos](./Basic/package.json)
-
+gfbgfbgfbfb
 ## Enlaces de interés
 
 * Impacto: [Stack Overflow](https://survey.stackoverflow.co/2023/#most-popular-technologies-language) | [GitHub](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/) | [Índice TIOBE](https://www.tiobe.com/tiobe-index/) | [Google Trends](https://trends.google.es/trends/explore?cat=5&date=today%205-y&q=%2Fm%2F02p97,%2Fm%2F05z1_,%2Fm%2F07sbkfb&hl=es)
